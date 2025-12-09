@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://direktor-salona-krasoty-obuchenie.vercel.app/sitemap.xml
